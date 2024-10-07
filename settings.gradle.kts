@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "registor"
+rootProject.name = "todolistEGOROV"
 include(":app")
